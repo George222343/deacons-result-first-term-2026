@@ -13828,8 +13828,8 @@
   "alhan": 22,
   "taks": 23,
   "coptic": 16,
-  "akeda": 9,
-  "totalSubjects": 70,
+  "akeda": 22,
+  "totalSubjects": 83,
   "finalSubjects": 100,
   "kodas": 10,
   "finalKodas": 11,
@@ -13841,9 +13841,9 @@
   "finalnahda": -1,
   "totalPresent": 18,
   "finalPresent": 19,
-  "totalResult": 88,
+  "totalResult": 101,
   "finalResult": 119,
-  "Rehabilitation": "غير مؤهل"
+  "Rehabilitation": "مؤهل"
  },
  {
   "name": "كيرلس هاني سمير عبد الملاك",
