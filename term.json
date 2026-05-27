@@ -930,17 +930,17 @@
   "finalSubjects": 100,
   "kodas": 3,
   "finalKodas": 11,
-  "hesa": 6,
+  "hesa": 8,
   "finalHesa": 9,
   "tasbha": -1,
   "finalTasbha": -1,
   "nahda": -1,
   "finalnahda": -1,
-  "totalPresent": 9,
+  "totalPresent": 11,
   "finalPresent": 20,
-  "totalResult": 101,
+  "totalResult": 103,
   "finalResult": 120,
-  "Rehabilitation": "غير مؤهل"
+  "Rehabilitation": "مؤهل"
  },
  {
   "name": "جورج علاء عزمى اسرائيل",
